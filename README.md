@@ -12,4 +12,4 @@ This repository includes web scraping application, EDA analysis and regression s
 
 ## Dataset
 
-![ZINGAT_LOGO](Images/Zingat_Logo.png)
+![ZINGAT_LOGO](Images/ZingatLogo.jpg)
