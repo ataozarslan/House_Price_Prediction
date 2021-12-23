@@ -4,6 +4,5 @@ This repository includes web scraping application, EDA analysis and regression s
 
 ## Introduction
 
-**Problem Definition: 
-Which features affect the house price and can we make aprice estimation using these features in the Kadıköy?
+**Problem Definition:** Which features affect the house price and can we make aprice estimation using these features in the Kadıköy?
 
