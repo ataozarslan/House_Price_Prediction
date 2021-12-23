@@ -1,4 +1,4 @@
-# PredictingHousePrice
+# House Price Prediction using Regression with Web Scraping BeautifulSoup
 
 This repository includes web scraping application, EDA analysis and regression solution for the house price in İstanbul, Kadıköy.
 
@@ -10,4 +10,6 @@ This repository includes web scraping application, EDA analysis and regression s
 
 **Objective:** Finding the features that affect the price and the bestpossible regression model based on the importance of thefeatures that affect the house price
 
-## Web Scraping
+## Dataset
+
+![ZINGAT_LOGO](Images/Zingat_Logo.png)
