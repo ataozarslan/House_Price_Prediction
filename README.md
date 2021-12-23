@@ -31,3 +31,12 @@ This repository includes a web scraping application, EDA analysis and regression
 
 ## Results
 
+According to the analysis, the features that most positively affect the price of ahouse in Kadıköy are;
+- The square meter of the house
+- Number of rooms and living rooms of the house
+- The house is located in Caddebostan or Fenerbahce
+
+
+
+According to the analysis, the best regression method is shown;
+- Linear Regression
