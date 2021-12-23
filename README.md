@@ -22,6 +22,8 @@ This repository includes a web scraping application, EDA analysis and regression
 
 - Using the Python BeautifulSoup library, data collection for each post's features using the web scraping method
 
+![WEB_SCRAPING](Images/WebScraping_Features.png)
+
 - Performing various editing and cleaning operations on the obtained data
 
 - Performing exploratory data analysis on the cleaned data
