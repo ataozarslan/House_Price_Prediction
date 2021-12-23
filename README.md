@@ -35,8 +35,9 @@ According to the analysis, the features that most positively affect the price of
 - The square meter of the house
 - Number of rooms and living rooms of the house
 - The house is located in Caddebostan or Fenerbahce
-
-
+![HOUSE_FEATURES](Graphs/05_CorrelationMatrixofHouseFeatures.png)
+![NEIGHBOURHOOD](Graphs/06_CorrelationMatrixofNeighbourhood.png)
 
 According to the analysis, the best regression method is shown;
 - Linear Regression
+![REGRESSION](Images/Regression_Result.png)
